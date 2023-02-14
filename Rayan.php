@@ -51,5 +51,7 @@ $text      =  "You have successfully installed XAMPP on this system! Now you can
 
 			 <?php echo"this is text<p><h5>$text</h5></p>";?>
 
+			 <?php echo"this is text<p><h5>$text</h5></p>";?>
+
       </body>
 </html>
