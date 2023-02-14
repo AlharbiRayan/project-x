@@ -25,7 +25,8 @@ $text      =  "You have successfully installed XAMPP on this system! Now you can
 
       </head>
 
-      <body>
+      <body>    
+		
          
 
          <h1><?php echo $heading; ?></h1>
